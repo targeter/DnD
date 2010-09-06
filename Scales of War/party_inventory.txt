@@ -1,7 +1,14 @@
-XP: TODO
-Gold: TODO
-Gems: TODO
-Art: TODO
+XP: 11443
+Coins: 4732gp
+Gems: 900gp
+Art: 750gp
 
 Items:
-- TODO
+- Zegelring met Ironfell logo (van trog geloot)
+- Leather armor +1
+- Chainmail van Modera geloot
+- Ketting van Modera geloot
+- Mooie cloak van Modera geloot
+- Short sword van Modera geloot
+- Zegelring met Ironfel logo
+
