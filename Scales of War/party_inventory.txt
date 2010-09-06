@@ -1,0 +1,7 @@
+XP: TODO
+Gold: TODO
+Gems: TODO
+Art: TODO
+
+Items:
+- TODO
