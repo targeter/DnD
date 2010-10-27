@@ -12,7 +12,7 @@ Alignment: Unaligned
 
 Background: Tyrian => Streetwise +2?
 
-Base stats: Int: 18, Cha: 14, Con: 11, Str: 10, Dex: 10, Wis: 8
+Base stats: Int: 18, Cha: 14, Con: 11, Str: 10, Wis: 10, Dex: 8
 Human: Int +2
 
 Skills:
