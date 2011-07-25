@@ -1,7 +1,7 @@
-XP: 11443
-Coins: 4732gp
-Gems: 900gp
-Art: 750gp
+XP:    12673
+Coins: 5132gp
+Gems:  900gp
+Art:   2250gp
 
 Items:
 - Zegelring met Ironfell logo (van trog geloot)
@@ -10,4 +10,5 @@ Items:
 - Ketting van Modera geloot
 - Mooie cloak van Modera geloot
 - Short sword van Modera geloot
+- Level 8 item: TBD
 
